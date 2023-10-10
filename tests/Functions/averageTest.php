@@ -4,9 +4,10 @@ use Michelcode\Statistique\Functions\Average;
 
 // écriture d'un test
 test('vérifier moyenne', function(){
-    $list = [10, 15, 14, 16, 20];
+ $list = [10, 15, 14, 16, 20];
 
     expect(Average::calculate($list))->toBe(15.0);
+    echo "coucou";
 });
 
 

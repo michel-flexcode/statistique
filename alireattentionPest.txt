@@ -1,3 +1,6 @@
 Il faut lancer le programme dans laragon et aller dans le dossier statistique
 
 vendor\bin\pest.bat
+vendor\bin\pest.bat
+vendor\bin\pest.bat
+vendor\bin\pest.bat
